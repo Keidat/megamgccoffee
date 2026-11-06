@@ -1,0 +1,374 @@
+[
+  {
+    "name": "자몽 톡톡 스무디",
+    "order": 201,
+    "aliases": [
+      "자몽톡톡스무디"
+    ],
+    "variants": [
+      {
+        "id": 201,
+        "temp": "ICE",
+        "cup": "20",
+        "shot": "자료 미기재",
+        "ice": "가득 (계량 용기 미확인)",
+        "liquid": "물 150ml",
+        "ingredients": "자몽 톡톡 베이스: 혼합용 4P + 컵 바닥 1P",
+        "topping": "자몽셀 2래들",
+        "method": "물 150ml·자몽 톡톡 베이스 4P·얼음을 블렌더 3번으로 혼합 → 20oz 컵에 베이스 1P를 넣고 컵을 돌려 벽면에 묻힘 → 음료를 8부선 이하까지 담음 → 액상을 제외한 자몽셀 2래들을 올림",
+        "status": "unverified",
+        "unknown": "얼음 계량 용기, 베이스 제품 규격, 현행 적용 여부. 두 비공식 자료의 기본 계량은 일치하나 본사 매뉴얼 확인은 아님.",
+        "source_label": "Quizlet ‘메가커피 여름 시즌 메뉴’ · 검색 색인 확인. 기존 ‘시즌’ 자료와 기본 계량 비교 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/1197418110/메가커피-여름-시즌-메뉴-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "저당 꿀배 XO야쿠르트",
+    "order": 202,
+    "aliases": [
+      "꿀배",
+      "꿀배 요구르트",
+      "저당 꿀배 XO요구르트"
+    ],
+    "variants": [
+      {
+        "id": 202,
+        "temp": "ICE",
+        "cup": "24",
+        "shot": "자료 미기재",
+        "ice": "양 미기재",
+        "liquid": "추가 물 여부 미확인",
+        "ingredients": "꿀배 베이스 컵 밑선 + 요구르트 2병 (자료 표기)",
+        "topping": "자료 미기재",
+        "method": "자료에는 꿀배 베이스·얼음·요구르트 2병으로 나열되어 있습니다. 정확한 투입·혼합 순서는 미확인입니다.",
+        "status": "unverified",
+        "unknown": "얼음량, 베이스 준비법, 요구르트 제품·병 용량, 추가 물 여부, 혼합 순서, 현행 적용 여부",
+        "source_label": "Quizlet ‘시즌’ · 비공식 암기자료, 검색 색인 확인 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/1187425365/시즌-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "그린키위 콕콕 딸기스무디",
+    "order": 203,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 203,
+        "temp": "ICE",
+        "cup": "20",
+        "shot": "자료 미기재",
+        "ice": "양 미기재",
+        "liquid": "물 150ml",
+        "ingredients": "그린베이스 3P, 가당딸기 100ml",
+        "topping": "미기재",
+        "method": "물·그린베이스·얼음을 블렌더 3번으로 혼합 → 컵에 가당딸기를 담아 자름 → 블렌더 음료를 부음",
+        "status": "unverified",
+        "availability": "과거 시즌 자료 · 현재 판매 미확인",
+        "unknown": "얼음량, 그린베이스 제품 규격 / 현행 적용·현재 판매 미확인",
+        "source_label": "Quizlet ‘메가커피 2026 딸기 시즌’ · 비공식 자료, 검색 색인 확인 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/1131918145/메가커피-2026-딸기-시즌-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "말차젤라또 퐁당 딸기프라페",
+    "order": 204,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 204,
+        "temp": "ICE",
+        "cup": "20",
+        "shot": "자료 미기재",
+        "ice": "양 미기재",
+        "liquid": "우유 200ml, 녹차베이스 25ml",
+        "ingredients": "딸기밀크쉐이크파우더 5래들, 딸기분태 1래들",
+        "topping": "말차젤라또 1스쿱, 딸기분태",
+        "method": "우유·파우더·분태·얼음을 블렌더 3번으로 혼합 → 컵에 녹차베이스와 혼합 음료 일부를 섞음 → 나머지 음료와 토핑을 올림",
+        "status": "unverified",
+        "availability": "과거 시즌 자료 · 현재 판매 미확인",
+        "unknown": "얼음량, 토핑 분태량, 소량 혼합 기준 / 현행 적용·현재 판매 미확인",
+        "source_label": "Quizlet ‘메가커피 2026 딸기 시즌’ · 비공식 자료, 검색 색인 확인 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/1131918145/메가커피-2026-딸기-시즌-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "딸기젤라또 퐁당 딥 초코라떼",
+    "order": 205,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 205,
+        "temp": "ICE",
+        "cup": "20",
+        "shot": "자료 미기재",
+        "ice": "양 미기재",
+        "liquid": "우유 125ml에 초코베이스를 더해 총 175ml선",
+        "ingredients": "시럽 3회(종류 미기재), 가당딸기 150ml",
+        "topping": "딸기젤라또 1스쿱, 딸기드리즐",
+        "method": "계량컵의 우유·초코베이스·시럽을 혼합 → 컵에 가당딸기를 담아 자르고 얼음을 넣음 → 혼합액과 토핑 투입",
+        "status": "unverified",
+        "availability": "과거 시즌 자료 · 현재 판매 미확인",
+        "unknown": "시럽 종류·1회 단위, 얼음량, 드리즐량 / 현행 적용·현재 판매 미확인",
+        "source_label": "Quizlet ‘메가커피 2026 딸기 시즌’ · 비공식 자료, 검색 색인 확인 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/1131918145/메가커피-2026-딸기-시즌-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "딸기폼 말캉 젤리워터",
+    "order": 206,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 206,
+        "temp": "ICE",
+        "cup": "20",
+        "shot": "자료 미기재",
+        "ice": "양 미기재",
+        "liquid": "매직베이스 A선",
+        "ingredients": "매직젤리 컵 밑선",
+        "topping": "딸기폼",
+        "method": "컵에 젤리·얼음·베이스·폼을 순서대로 담고 납작 뚜껑 사용",
+        "status": "unverified",
+        "availability": "과거 시즌 자료 · 현재 판매 미확인",
+        "unknown": "얼음량, 폼량·배합, 베이스·젤리 규격 / 현행 적용·현재 판매 미확인",
+        "source_label": "Quizlet ‘메가커피 2026 딸기 시즌’ · 비공식 자료, 검색 색인 확인 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/1131918145/메가커피-2026-딸기-시즌-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "로꾸거 딸기젤라또 콘케이크",
+    "order": 207,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 207,
+        "temp": "ICE",
+        "cup": "14",
+        "shot": "자료 미기재",
+        "ice": "자료 미기재",
+        "liquid": "미기재",
+        "ingredients": "믹스시리얼 2래들, 초코크런치볼 1래들, 콘케이크",
+        "topping": "딸기젤라또 총 2스쿱, 레인보우스프링클",
+        "method": "컵에 시리얼·크런치볼 준비 → 콘케이크에 젤라또를 두 번에 나눠 올림 → 콘을 비스듬히 뒤집어 담고 스프링클 토핑. 계량컵을 이용하는 중간 조립 과정은 원문만으로 불명확함.",
+        "status": "unverified",
+        "availability": "과거 시즌 자료 · 현재 판매 미확인",
+        "unknown": "콘케이크 규격·개수, 중간 조립법, 스프링클량. 원문 메뉴명은 로꾸꼬로 표기 / 현행 적용·현재 판매 미확인",
+        "source_label": "Quizlet ‘메가커피 2026 딸기 시즌’ · 비공식 자료, 검색 색인 확인 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/1131918145/메가커피-2026-딸기-시즌-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "탱글탱글 포도알 티플레저",
+    "order": 208,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 208,
+        "temp": "ICE",
+        "cup": "24",
+        "shot": "자료 미기재",
+        "ice": "24oz (원문 계량)",
+        "liquid": "사이다 200ml",
+        "ingredients": "포도베이스 혼합용 3래들 + 별도 1래들, 화이트펄 2래들",
+        "topping": "미기재",
+        "method": "사이다·포도베이스 3래들·얼음을 블렌더 3번으로 5초 혼합 → 별도 베이스 1래들·화이트펄 2래들 투입 후 붓기로 기재",
+        "status": "unverified",
+        "availability": "과거 시즌 자료 · 현재 판매 미확인",
+        "unknown": "마지막 베이스·펄의 투입 위치, 베이스 규격 / 현행 적용·현재 판매 미확인",
+        "source_label": "Quizlet ‘메가커피 레시피_5월 신메뉴’ (연도 미확인) · 비공식 자료, 검색 색인 확인 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/912460699/메가커피-레시피_5월-신메뉴-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "파란하늘 수박소다 펄 프라페",
+    "order": 209,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 209,
+        "temp": "ICE",
+        "cup": "20",
+        "shot": "자료 미기재",
+        "ice": "20oz (원문 계량)",
+        "liquid": "우유 200ml, 수박주스 베이스 컵 밑선(75ml)",
+        "ingredients": "슈가시럽 2P, 소다파우더 4래들, 화이트펄 2래들",
+        "topping": "미기재",
+        "method": "우유·시럽·파우더·얼음 블렌딩 → 컵에 수박베이스와 펄을 담고 혼합 음료를 부음",
+        "status": "unverified",
+        "availability": "과거 시즌 자료 · 현재 판매 미확인",
+        "unknown": "블렌더 설정, 원료 규격 / 현행 적용·현재 판매 미확인",
+        "source_label": "Quizlet ‘메가커피 레시피_5월 신메뉴’ (연도 미확인) · 비공식 자료, 검색 색인 확인 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/912460699/메가커피-레시피_5월-신메뉴-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "몽글젤리 복숭아 스무디",
+    "order": 210,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 210,
+        "temp": "ICE",
+        "cup": "20",
+        "shot": "자료 미기재",
+        "ice": "양 미기재",
+        "liquid": "물 150ml, 복숭아스무디베이스 250ml",
+        "ingredients": "슈가시럽 2P, 복숭아워터젤리 컵 밑선",
+        "topping": "미기재",
+        "method": "물·베이스·시럽·얼음 블렌딩 → 컵에 젤리를 담고 혼합 음료를 부음",
+        "status": "unverified",
+        "availability": "과거 시즌 자료 · 현재 판매 미확인",
+        "unknown": "블렌더 설정, 얼음량, 젤리 규격 / 현행 적용·현재 판매 미확인",
+        "source_label": "Quizlet ‘메가커피 레시피_5월 신메뉴’ (연도 미확인) · 비공식 자료, 검색 색인 확인 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/912460699/메가커피-레시피_5월-신메뉴-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "오이오이 라임 오히또",
+    "order": 211,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 211,
+        "temp": "ICE",
+        "cup": "24",
+        "shot": "자료 미기재",
+        "ice": "양 미기재",
+        "liquid": "제로사이다 (양 미기재)",
+        "ingredients": "라임 4개, 민트잎 4개, 오히또베이스 3래들",
+        "topping": "미기재",
+        "method": "라임·민트·베이스·얼음·제로사이다를 담고 젓는 순서로 기재",
+        "status": "unverified",
+        "availability": "과거 시즌 자료 · 현재 판매 미확인",
+        "unknown": "라임 조각 규격, 얼음·사이다 양, 머들링 여부 / 현행 적용·현재 판매 미확인",
+        "source_label": "Quizlet ‘메가커피 레시피_5월 신메뉴’ (연도 미확인) · 비공식 자료, 검색 색인 확인 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/912460699/메가커피-레시피_5월-신메뉴-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "파인망고 코코스무디",
+    "order": 212,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 212,
+        "temp": "ICE",
+        "cup": "20",
+        "shot": "자료 미기재",
+        "ice": "가득 (계량 용기 미확인)",
+        "liquid": "밀크 코코 베이스 250ml",
+        "ingredients": "망고파인 베이스 혼합 후 5래들·컵 바닥 1래들, 나타드코코 1래들",
+        "topping": "파인애플 과육 1래들",
+        "method": "코코베이스·얼음 혼합 후 망고파인베이스 5래들을 넣는 것으로 기재. 컵 바닥에 베이스 1래들과 나타드코코를 담고 음료·과육을 올림.",
+        "status": "unverified",
+        "availability": "과거 시즌 자료 · 현재 판매 미확인",
+        "unknown": "밀크 코코 베이스 배합, 블렌더 설정, 혼합 후 베이스 처리법 / 현행 적용 여부",
+        "source_label": "Quizlet ‘시즌’ · 비공식 암기자료, 검색 색인 확인 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/1187425365/시즌-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "애플 머스켓 요거트스무디",
+    "order": 213,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 213,
+        "temp": "ICE",
+        "cup": "20",
+        "shot": "자료 미기재",
+        "ice": "양 미기재",
+        "liquid": "우유 150ml",
+        "ingredients": "요거트파우더 3래들, 애플 머스켓 베이스 혼합용 3래들·컵 바닥 1래들, 슈가시럽 1P",
+        "topping": "자료 미기재",
+        "method": "혼합 재료와 얼음, 컵 바닥용 베이스가 구분되어 있음. 전체 공정·기계 설정은 생략됨.",
+        "status": "unverified",
+        "availability": "과거 시즌 자료 · 현재 판매 미확인",
+        "unknown": "얼음량, 블렌더 설정, 베이스 제품 규격 / 현행 적용 여부",
+        "source_label": "Quizlet ‘시즌’ · 비공식 암기자료, 검색 색인 확인 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/1187425365/시즌-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "M망고 G구아바 C캐럿 주스",
+    "order": 214,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 214,
+        "temp": "ICE",
+        "cup": "20",
+        "shot": "자료 미기재",
+        "ice": "양 미기재",
+        "liquid": "물 200ml",
+        "ingredients": "전용 주스 1팩",
+        "topping": "자료 미기재",
+        "method": "물과 주스팩, 얼음으로만 기재되어 있어 블렌딩 여부·순서는 미확인.",
+        "status": "unverified",
+        "availability": "과거 시즌 자료 · 현재 판매 미확인",
+        "unknown": "팩 규격, 얼음량, 제조 순서·장비 / 현행 적용 여부",
+        "source_label": "Quizlet ‘시즌’ · 비공식 암기자료, 검색 색인 확인 (2026-11-06)",
+        "source_url": "https://quizlet.com/kr/1187425365/시즌-flash-cards/"
+      }
+    ]
+  },
+  {
+    "name": "쫀득 모찌 밀크티",
+    "order": 215,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 215,
+        "temp": "ICE",
+        "cup": "미확인",
+        "shot": "미확인",
+        "ice": "얼음을 넣는 장면 확인 · 양 미확인",
+        "liquid": "미리 혼합한 밀크티 · 배합과 양 미확인",
+        "ingredients": "컵 바닥의 흰 모찌 재료 · 제품명과 양 미확인",
+        "topping": "추가 토핑 미확인",
+        "method": "1:22 컵 바닥에 흰 모찌 재료가 담긴 상태 확인 → 1:32 얼음이 담긴 컵에 미리 혼합한 밀크티를 부음 → 1:48 돔 뚜껑으로 마감된 상태 확인",
+        "status": "unverified",
+        "evidence_type": "video",
+        "unknown": "컵 규격, 모찌 제품·양, 밀크티의 원료와 배합·양, 얼음량. 편집된 영상의 일부 장면이며 전체 제조법이 아닙니다.",
+        "source_label": "골때리는메린이 · 겨울신메뉴 제조 브이로그, 영상 장면 직접 확인 (2026-11-06)",
+        "source_url": "https://www.youtube.com/watch?v=ESBfNCg7F_8&t=82s"
+      }
+    ]
+  },
+  {
+    "name": "딥 초코 체리 프라페",
+    "order": 216,
+    "aliases": [],
+    "variants": [
+      {
+        "id": 216,
+        "temp": "ICE",
+        "cup": "미확인",
+        "shot": "미확인",
+        "ice": "혼합용 얼음량 미확인",
+        "liquid": "초코색 블렌딩 음료 · 배합과 양 미확인",
+        "ingredients": "컵 안쪽의 붉은 소스 · 제품명과 양 미확인",
+        "topping": "휘핑크림 · 양 미확인; 이후 토핑 규격 미확인",
+        "method": "2:45 붉은 소스가 컵 안쪽에 묻은 상태에서 블렌딩 음료를 담음 → 3:01 휘핑크림을 올림 → 3:11 이후 추가 토핑 작업이 있으나 제품과 양은 식별하지 못함 → 3:37 돔 뚜껑으로 마감",
+        "status": "unverified",
+        "evidence_type": "video",
+        "unknown": "컵 규격, 액상·파우더·얼음 계량, 블렌더 번호, 소스 제품과 양, 휘핑량, 마지막 토핑 제품과 양. 색으로 원료를 확정하지 않았습니다.",
+        "source_label": "골때리는메린이 · 겨울신메뉴 제조 브이로그, 영상 장면 직접 확인 (2026-11-06)",
+        "source_url": "https://www.youtube.com/watch?v=ESBfNCg7F_8&t=165s"
+      }
+    ]
+  }
+]
